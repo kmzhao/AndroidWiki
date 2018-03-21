@@ -5,6 +5,5 @@
   * [Service的启动方式](01AndroidBasic/Service的启动方式.md)
   * [BroadCastReceiver注册与启动](01AndroidBasic/BroadCastReceiver注册与启动.md)
 * [Database](chapter_other.md)
-  * [MySql](Database/mysql.md)
-* [源码分析](chapter20.md)
-  * [Activity的启动过程](源码分析/Activity的启动过程.md)
+  * [MySQL入门01](Database/mysql01.md)
+  * [MySQL入门02](Database/mysql02.md)
